@@ -6,7 +6,7 @@ One pod Jitsi-Meet for Kubernetes cluster.
 ## Usage
 Clone kubernetes repo.
 ```
-git clone https://github.com/muazdervent/kubernetes.git
+git clone https://github.com/muazdervent/Jitsi-Meet-for-Kubernetes.git
 ```
 Deploy Jitsi-Meet on your Kubernetes Cluster.
 ```
